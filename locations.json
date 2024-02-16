@@ -1,0 +1,427 @@
+[
+
+	{
+		"type": "Green Zones",
+		"title": "LSC",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -54.831, "lng": -23.480},
+			{"lat": -54.199, "lng": -26.347},
+			{"lat": -54.551, "lng": -27.050},
+			{"lat": -56.235, "lng": -25.325},
+			{"lat": -56.015, "lng": -23.919}
+
+
+		]
+	},	
+	{
+		"type": "Green Zones",
+		"title": "UWU",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -66.855, "lng": -33.063},
+			{"lat": -67.410, "lng": -33.085},
+			{"lat": -68.162, "lng": -33.008},
+			{"lat": -68.195, "lng": -30.942},
+			{"lat": -67.360, "lng": -31.019},
+			{"lat": -66.881, "lng": -31.030}
+
+
+		]
+	},
+	{
+		"type": "Green Zones",
+		"title": "WhiteWidow",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -54.447, "lng": -7.313},
+			{"lat": -54.236, "lng": -8.247},
+			{"lat": -55.043, "lng": -8.719},
+			{"lat": -55.313, "lng": -7.808}
+
+
+
+
+
+
+		]
+	},
+	{
+		"type": "Green Zones",
+		"title": "Vanilla Unicorn",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -70.068, "lng": -10.787},
+			{"lat": -70.180, "lng": -12.534},
+			{"lat": -70.568, "lng": -12.006},
+			{"lat": -70.269, "lng": -10.556}
+
+
+
+
+		]
+	},
+
+		{
+		"type": "Green Zones",
+		"title": "Bahama Mama",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -61.857, "lng": -54.878},
+			{"lat": -62.482, "lng": -54.142},
+			{"lat": -62.891, "lng": -55.472},
+			{"lat": -62.258, "lng": -56.317}
+
+
+
+
+
+
+		]
+	},
+
+		{
+		"type": "Green Zones",
+		"title": "Bean Machine",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -67.411, "lng": -11.596},
+			{"lat": -67.562, "lng": -10.388},
+			{"lat": -67.866, "lng": -10.662},
+			{"lat": -67.700, "lng": -11.882}
+
+
+
+
+
+		]
+	},
+
+			{
+		"type": "Green Zones",
+		"title": "Pizza This",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -63.946, "lng": 7.688},
+			{"lat": -64.018, "lng": 8.820},
+			{"lat": -64.632, "lng": 8.952},
+			{"lat": -64.604, "lng": 7.776}
+
+
+
+
+
+		]
+	},
+	
+		{
+		"type": "Green Zones",
+		"title": "Burger Shot",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -65.644, "lng": -48.898},
+			{"lat": -66.266, "lng": -47.876},
+			{"lat": -66.569, "lng": -48.942},
+			{"lat": -65.941, "lng": -50.084}
+
+
+
+
+
+
+
+		]
+	},
+
+	{
+		"type": "Green Zones",
+		"title": "Casino",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -55.001, "lng": 12.037},
+			{"lat": -53.928, "lng": 8.917},
+			{"lat": -52.834, "lng": 10.389},
+			{"lat": -51.404, "lng": 12.158},
+			{"lat": -52.077, "lng": 14.014},
+			{"lat": -53.656, "lng": 12.520},
+			{"lat": -54.295, "lng": 12.015},
+			{"lat": -54.500, "lng": 12.520}
+
+
+
+
+
+		]
+	},
+
+		{
+		"type": "Green Zones",
+		"title": "Cluck N Bell",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
+		"latlngarray": [
+			{"lat": -57.059, "lng": -18.608},
+			{"lat": -56.759, "lng": -19.718},
+			{"lat": -57.593, "lng": -20.256},
+			{"lat": -57.863, "lng": -19.102}
+
+
+
+
+
+
+
+
+		]
+	},
+	
+	{
+		"type": "Gang MLO Locations",
+		"title": "Lost Mc",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFF000",
+		"fillcolor": "FFF000",
+		"latlngarray": [
+			{"lat": -54.418, "lng": 13.361},
+			{"lat": -55.059, "lng": 14.657},
+			{"lat": -55.832, "lng": 13.701},
+			{"lat": -56.310, "lng": 15.031},
+			{"lat": -57.809, "lng": 13.284},
+			{"lat": -55.597, "lng": 6.868},
+			{"lat": -53.910, "lng": 8.593},
+			{"lat": -55.291, "lng": 11.998}
+
+
+		
+
+		]
+	},
+
+		{
+		"type": "Gang MLO Locations",
+		"title": "SMC",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "007CFF",
+		"fillcolor": "007CFF",
+		"latlngarray": [
+			{"lat": -65.531, "lng": -33.731},
+			{"lat": -65.499, "lng": -39.313},
+			{"lat": -66.692, "lng": -39.477},
+			{"lat": -68.269, "lng": -37.038},
+			{"lat": -67.638, "lng": -34.226},
+			{"lat": -66.904, "lng": -33.830}
+
+
+		
+
+		]
+	},
+	
+	{
+		"type": "Gang MLO Locations",
+		"title": "Marabunta",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF9E00",
+		"fillcolor": "FF9E00",
+		"latlngarray": [
+			{"lat": -72.489, "lng": 21.976},
+			{"lat": -73.338, "lng": 17.340},
+			{"lat": -74.867, "lng": 19.403},
+			{"lat": -74.331, "lng": 25.665},
+			{"lat": -73.346, "lng": 23.710}
+
+
+
+
+		
+
+		]
+	},
+
+		{
+		"type": "Gang MLO Locations",
+		"title": "familias",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "AA00FF",
+		"fillcolor": "AA00FF",
+		"latlngarray": [
+			{"lat": -73.129, "lng": -16.172},
+			{"lat": -72.247, "lng": -19.776},
+			{"lat": -72.885, "lng": -21.709},
+			{"lat": -73.969, "lng": -21.753},
+			{"lat": -74.362, "lng": -19.908}
+
+	
+
+		]
+	},
+
+
+			{
+		"type": "Gang MLO Locations",
+		"title": "The Life Takers",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "666767",
+		"fillcolor": "666767",
+		"latlngarray": [
+			{"lat": -43.943, "lng": -65.283},
+			{"lat": -43.753, "lng": -68.557},
+			{"lat": -40.210, "lng": -68.139},
+			{"lat": -39.399, "lng": -69.128},
+			{"lat": -39.620, "lng": -71.501},
+			{"lat": -40.210, "lng": -73.347},
+			{"lat": -43.737, "lng": -74.533},
+			{"lat": -47.781, "lng": -73.413},
+			{"lat": -51.397, "lng": -70.029},
+			{"lat": -47.500, "lng": -62.295},
+			{"lat": -45.473, "lng": -63.020}
+
+
+	
+
+		]
+	},
+
+		{
+		"type": "Gang MLO Locations",
+		"title": "MCS",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -81.395, "lng": -29.812},
+			{"lat": -80.811, "lng": -31.526},
+			{"lat": -79.529, "lng": -24.683},
+			{"lat": -78.900, "lng": -28.550},
+			{"lat": -78.768, "lng": -27.913},
+			{"lat": -79.497, "lng": -23.298},
+			{"lat": -79.372, "lng": -22.595},
+			{"lat": -78.959, "lng": -25.298},
+			{"lat": -78.751, "lng": -24.507},
+			{"lat": -78.530, "lng": -23.144},
+			{"lat": -78.569, "lng": -16.091},
+			{"lat": -79.114, "lng": -11.851},
+			{"lat": -78.934, "lng": -11.301},
+			{"lat": -78.626, "lng": -13.498},
+			{"lat": -78.534, "lng": -9.192},
+			{"lat": -78.530, "lng": -7.851},
+			{"lat": -78.647, "lng": -6.951},
+			{"lat": -78.643, "lng": -5.369},
+			{"lat": -78.785, "lng": -3.787},
+			{"lat": -80.718, "lng": -3.721},
+			{"lat": -80.967, "lng": -5.588},
+			{"lat": -82.940, "lng": -6.247},
+			{"lat": -82.949, "lng": -12.004},
+			{"lat": -80.796, "lng": -11.903},
+			{"lat": -80.586, "lng": -10.607},
+			{"lat": -80.558, "lng": -9.574},
+			{"lat": -80.145, "lng": -9.640},
+			{"lat": -80.123, "lng": -10.871},
+			{"lat": -80.265, "lng": -11.002},
+			{"lat": -80.547, "lng": -12.694},
+			{"lat": -80.547, "lng": -14.760},
+			{"lat": -80.485, "lng": -17.814},
+			{"lat": -80.343, "lng": -17.864},
+			{"lat": -80.339, "lng": -19.720},
+			{"lat": -80.398, "lng": -19.698},
+			{"lat": -80.392, "lng": -20.841},
+			{"lat": -80.200, "lng": -20.786},
+			{"lat": -80.209, "lng": -22.247},
+			{"lat": -80.525, "lng": -24.267},
+			{"lat": -80.554, "lng": -23.806},
+			{"lat": -80.597, "lng": -23.806},
+			{"lat": -80.603, "lng": -22.938},
+			{"lat": -80.697, "lng": -22.971},
+			{"lat": -80.699, "lng": -24.256},
+			{"lat": -80.733, "lng": -24.212},
+			{"lat": -80.726, "lng": -24.992},
+			{"lat": -81.023, "lng": -26.860},
+			{"lat": -81.020, "lng": -27.278}
+
+
+
+
+		
+
+		]
+	},
+
+	{
+		"type": "Gang MLO Locations",
+		"title": "Cannabis Kings 1",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0EA666",
+		"fillcolor": "0EA666",
+		"latlngarray": [
+			{"lat": -47.375, "lng": -28.322},
+			{"lat": -48.143, "lng": -28.520},
+			{"lat": -48.062, "lng": -30.464},
+			{"lat": -50.603, "lng": -30.662},
+			{"lat": -50.700, "lng": -21.675},
+			{"lat": -48.457, "lng": -21.554},
+			{"lat": -48.362, "lng": -26.762},
+			{"lat": -47.442, "lng": -26.729}
+
+
+
+		
+
+		]
+	}
+
+
+		
+]
